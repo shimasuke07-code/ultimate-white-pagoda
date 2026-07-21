@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="210mm"
+    height="297mm"
+    viewBox="0 0 210 297">
+
+    <title>A-001 Base Plate</title>
+    <desc>Ultimate White Pagoda - Base Plate v0.1</desc>
+
+    <defs>
+        <style><![CDATA[
+            .cut{
+                fill:none;
+                stroke:#000;
+                stroke-width:0.25;
+            }
+
+            .guide{
+                fill:none;
+                stroke:#888;
+                stroke-width:0.15;
+                stroke-dasharray:2 2;
+            }
+
+            .text{
+                font-family:Arial, Helvetica, sans-serif;
+                font-size:4px;
+                fill:#000;
+            }
+        ]]></style>
+    </defs>
+
+    <!-- A4 Border (Guide Only) -->
+    <rect
+        x="0.5"
+        y="0.5"
+        width="209"
+        height="296"
+        class="guide"/>
+
+    <!-- Base Plate -->
+    <rect
+        x="15"
+        y="58.5"
+        width="180"
+        height="180"
+        class="cut"/>
+
+    <!-- Center Hole -->
+    <rect
+        x="102"
+        y="145.5"
+        width="6"
+        height="6"
+        class="cut"/>
+
+    <!-- Center Marks -->
+    <line
+        x1="105"
+        y1="140"
+        x2="105"
+        y2="157"
+        class="guide"/>
+
+    <line
+        x1="99"
+        y1="148.5"
+        x2="111"
+        y2="148.5"
+        class="guide"/>
+
+    <!-- Labels -->
+    <text
+        x="15"
+        y="248"
+        class="text">
+        Part No.: A-001
+    </text>
+
+    <text
+        x="15"
+        y="254"
+        class="text">
+        Base Plate
+    </text>
+
+    <text
+        x="15"
+        y="260"
+        class="text">
+        Size: 180 × 180 mm
+    </text>
+
+    <text
+        x="15"
+        y="266"
+        class="text">
+        Center Hole: 6 × 6 mm
+    </text>
+
+    <text
+        x="15"
+        y="272"
+        class="text">
+        Print Scale: 100%
+    </text>
+
+</svg>
