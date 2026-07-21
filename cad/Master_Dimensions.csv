@@ -1,0 +1,17 @@
+Parameter,Value,Unit
+TotalHeight,300,mm
+BaseWidth,180,mm
+BaseDepth,180,mm
+Floor1Width,140,mm
+Roof1Width,160,mm
+Floor2Width,116,mm
+Roof2Width,132,mm
+Floor3Width,94,mm
+Roof3Width,108,mm
+Floor4Width,74,mm
+Roof4Width,86,mm
+Floor5Width,56,mm
+Roof5Width,68,mm
+FinialHeight,50,mm
+ColumnSection,6,mm
+PaperThickness,0.20,mm
