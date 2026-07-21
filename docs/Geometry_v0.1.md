@@ -65,3 +65,38 @@ All dimensions are millimeters (mm).
 ---
 
 Status: Draft
+
+---
+
+## Design Grid
+
+Grid size = 1 mm
+
+Origin = Center of Base
+
+Coordinate System
+
+---
+
+# Coordinate System
+
+| Item | Value |
+|------|------|
+| Grid Size | 1 mm |
+| Origin | Center of Base |
+| X Axis | Left ↔ Right |
+| Y Axis | Front ↔ Back |
+| Z Axis | Bottom ↔ Top |
+
+---
+
+# Revision History
+
+| Version | Date | Notes |
+|---------|------|------|
+| v0.1 | 2026-07-20 | Initial draft |
+X = Left ↔ Right
+
+Y = Front ↔ Back
+
+Z = Bottom ↔ Top
